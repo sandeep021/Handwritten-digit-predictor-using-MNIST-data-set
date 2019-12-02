@@ -2,15 +2,15 @@
 Simple neural network to predict handwritten digits using Tensorflow and famous MNIST dataset
 
 
-## What is a Neural Network ? ðŸ¤”
+## What is a Neural Network ? 
 
-â€œA neural network (also called an ANN or an artificial neural network) is a sort of computer software, inspired by biological neurons. Biological brains are capable of solving difficult problems, but each neuron is only responsible for solving a very small part of the problem. Similarly, a neural network is made up of cells that work together to produce a desired result, although each individual cell is only responsible for solving a small part of the problem. This is one method for creating artificially intelligent programs. .â€
+A neural network (also called an ANN or an artificial neural network) is a sort of computer software, inspired by biological neurons. Biological brains are capable of solving difficult problems, but each neuron is only responsible for solving a very small part of the problem. Similarly, a neural network is made up of cells that work together to produce a desired result, although each individual cell is only responsible for solving a small part of the problem. This is one method for creating artificially intelligent programs.
 
-â˜ï¸ From [Wikipedia](https://simple.wikipedia.org/wiki/Artificial_neural_network)
+From [Wikipedia](https://simple.wikipedia.org/wiki/Artificial_neural_network)
 
 ---
 
-## The MNIST Dataset âœï¸
+## The MNIST Dataset 
 
 The [**MNIST database**](https://en.wikipedia.org/wiki/MNIST_database) is arguably the most famous database in the field of machine learning; it is a large database of **28**x**28** pixel images of handwritten digits created in 1999 by [Yann LeCun](http://yann.lecun.com/).
 
@@ -41,7 +41,7 @@ Steps:
 2. The model was created and trained using tensorflow 2.0.
 3. The adam optimizer is used to reduce the cost.
 
-â˜ï¸ Run the [Jupyter notebook](https://github.com/sandeep021/Handwritten-digit-predictor-using-MNIST-data-set/blob/master/Model_predictor.ipynb) to train the network on your own device ðŸ’¯
+Run the [Jupyter notebook](https://github.com/sandeep021/Handwritten-digit-predictor-using-MNIST-data-set/blob/master/Model_predictor.ipynb) to train the network on your own device ðŸ’¯
 
 ---
 
@@ -50,6 +50,6 @@ Your feedback is always appreciated and welcomed. If you find a bug in the sourc
 
 ---
 
-## License ðŸ‘¨â€âš–ï¸
+## License
 
 This project is released under the [MIT License](LICENSE)
