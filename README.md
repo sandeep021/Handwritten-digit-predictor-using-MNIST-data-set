@@ -46,7 +46,7 @@ Run the [Jupyter notebook](https://github.com/sandeep021/Handwritten-digit-predi
 ---
 
 ## Demo Video 
-![demo](demo.mp4)
+[demo](https://youtu.be/qGH3o8N4AYg)
 
 ## Contributing
 Your feedback is always appreciated and welcomed. If you find a bug in the source code, you can help me by submitting an issue. Even better you can submit a Pull Request with a fix :)
