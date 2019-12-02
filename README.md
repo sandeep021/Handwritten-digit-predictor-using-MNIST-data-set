@@ -1,4 +1,4 @@
-# Handwritten Digit Predictor(MNIST Dataset)
+﻿# Handwritten Digit Predictor(MNIST Dataset)
 Simple neural network to predict handwritten digits using Tensorflow and famous MNIST dataset
 
 
@@ -44,6 +44,9 @@ Steps:
 Run the [Jupyter notebook](https://github.com/sandeep021/Handwritten-digit-predictor-using-MNIST-data-set/blob/master/Model_predictor.ipynb) to train the network on your own device ðŸ’¯
 
 ---
+
+## Demo Video 
+![demo](demo.mp4)
 
 ## Contributing
 Your feedback is always appreciated and welcomed. If you find a bug in the source code, you can help me by submitting an issue. Even better you can submit a Pull Request with a fix :)
