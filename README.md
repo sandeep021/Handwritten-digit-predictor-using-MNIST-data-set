@@ -16,7 +16,7 @@ The [**MNIST database**](https://en.wikipedia.org/wiki/MNIST_database) is arguab
 
 ---
 
-## The Model ðŸ’»
+## The Model
 
 Our model consists of 6 layers:
 
@@ -29,19 +29,19 @@ Our model consists of 6 layers:
 
 
 
-## Draw and classify digits in Playground Canvas ðŸŽ¨
+## Draw and classify digits in Playground Canvas
 
 [**Run draw and Predict **](https://github.com/sandeep021/Handwritten-digit-predictor-using-MNIST-data-set) on your Machine.
 ---
 
-## Creating and Training The Model ðŸ‘©â€ðŸ«
+## Creating and Training The Model
 Steps:
 
 1. The data was preprocessed using keras and dataset api of Tensorflow. 
 2. The model was created and trained using tensorflow 2.0.
 3. The adam optimizer is used to reduce the cost.
 
-Run the [Jupyter notebook](https://github.com/sandeep021/Handwritten-digit-predictor-using-MNIST-data-set/blob/master/Model_predictor.ipynb) to train the network on your own device ðŸ’¯
+Run the [Jupyter notebook](https://github.com/sandeep021/Handwritten-digit-predictor-using-MNIST-data-set/blob/master/Model_predictor.ipynb) to train the network on your own device
 
 ---
 
